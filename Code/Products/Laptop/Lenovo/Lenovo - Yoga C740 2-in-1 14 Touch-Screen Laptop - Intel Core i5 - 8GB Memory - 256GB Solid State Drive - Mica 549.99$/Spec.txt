@@ -1,0 +1,190 @@
+Storage: SSD 256gb
+Ram: 8gb
+Graphics: Intel UHD Graphics
+CPU: Intel 10th Generation Core i5
+Battery life: 7.5hrs
+
+Key Specs
+2-in-1 DesignInfo
+Yes
+Backlit KeyboardInfo
+Yes
+Screen SizeInfo
+14 inches
+Screen ResolutionInfo
+1920 x 1080 (Full HD)
+Touch ScreenInfo
+Yes
+Storage Type
+SSD
+Total Storage Capacity
+256 gigabytes
+Solid State Drive CapacityInfo
+256 gigabytes
+System Memory (RAM)Info
+8 gigabytes
+GraphicsInfo
+Other
+Processor Speed (Base)Info
+1.6 gigahertz
+Processor ModelInfo
+Intel 10th Generation Core i5
+Processor Model Number
+i5-10210U
+Operating SystemInfo
+Windows 10 Home
+Voice Assistant Built-inInfo
+Amazon Alexa
+Works WithInfo
+Amazon Alexa
+Battery LifeInfo
+13 hours
+Battery Type
+Lithium-ion
+General
+Product Name
+Yoga C740 2-in-1 14" Touch-Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive
+Brand
+Lenovo
+Casing Material
+Aluminum
+Model Number
+81TC000JUS
+Color
+Mica
+Color Category
+Silver
+Feature
+2-in-1 DesignInfo
+Yes
+Keyboard Touch ScreenInfo
+No
+Touchpad Type
+Multi-touch, buttonless
+Backlit KeyboardInfo
+Yes
+Cooling SystemInfo
+Air
+Security Features
+Fingerprint reader
+Operating System ArchitectureInfo
+64-bit
+Ports
+Headphone Jack
+Yes
+Number of USB Ports (Total)
+1
+Number of USB 3.0 Type A Ports
+1
+Number of USB 3.1 Type C Ports
+2
+Display
+Screen SizeInfo
+14 inches
+Screen ResolutionInfo
+1920 x 1080 (Full HD)
+Touch ScreenInfo
+Yes
+Display Type
+Full HD Widescreen LED
+Storage
+Storage Type
+SSD
+Total Storage Capacity
+256 gigabytes
+Solid State Drive CapacityInfo
+256 gigabytes
+Hard Drive AcceleratorInfo
+None
+Memory
+System Memory (RAM)Info
+8 gigabytes
+Type of Memory (RAM)Info
+DDR4 SDRAM
+System Memory RAM SpeedInfo
+2666 megahertz
+Cache MemoryInfo
+6 megabytes
+Graphics
+GraphicsInfo
+Other
+Graphics TypeInfo
+Integrated
+Processor
+Processor Brand
+Intel
+Processor Speed (Base)Info
+1.6 gigahertz
+Processor ModelInfo
+Intel 10th Generation Core i5
+Processor Model Number
+i5-10210U
+Connectivity
+Internet Connectivity
+Wi-Fi
+Bluetooth EnabledInfo
+Yes
+Embedded Mobile BroadbandInfo
+None
+NFC EnabledInfo
+No
+Camera
+Front-Facing Camera
+Yes
+Front Facing Camera Video ResolutionInfo
+720p
+Built-In Microphone
+Yes
+Network
+Wireless NetworkingInfo
+Wireless-AC
+Compatibility
+Operating SystemInfo
+Windows 10 Home
+Voice Assistant Built-inInfo
+Amazon Alexa
+Works WithInfo
+Amazon Alexa
+Included
+Optical Drive TypeInfo
+None
+Included Software
+McAfee LiveSafe (30 days trial), Lenovo Vantage and Microsoft Office 2019 (30 days trial)
+Additional Accessories Included
+USB-C power adapter
+Power
+Battery LifeInfo
+13 hours
+Battery Cells
+4-cell
+Battery Type
+Lithium-ion
+Power Supply Input
+USB 3.1 Gen1
+Power Supply Maximum Wattage
+45 watts
+Dimension
+Product HeightInfo
+0.7 inches
+Product WidthInfo
+12.7 inches
+Product DepthInfo
+8.4 inches
+Product WeightInfo
+3.09 pounds
+Audio
+Speaker Type
+Stereo speakers
+Certifications & Listings
+ENERGY STAR CertifiedInfo
+No
+EPEAT QualifiedInfo
+No
+Warranty
+Manufacturer's Warranty - Parts
+1 year
+Manufacturer's Warranty - Labor
+1 year
+Other
+UPC
+193638237297

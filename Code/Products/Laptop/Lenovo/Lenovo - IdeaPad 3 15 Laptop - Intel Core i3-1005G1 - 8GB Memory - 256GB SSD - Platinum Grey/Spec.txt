@@ -1,0 +1,241 @@
+Storage: SSD 256gb<br>
+Ram: 8gb<br>
+Graphics: Intel UHD Graphics<br>
+CPU: Intel 10th Generation Core i3<br>
+Battery life: 7.5hrs
+
+Key Specs
+2-in-1 DesignInfo
+No
+Backlit KeyboardInfo
+No
+Screen SizeInfo
+15.6 inches
+Screen ResolutionInfo
+1920 x 1080 (Full HD)
+Touch ScreenInfo
+No
+Storage Type
+SSD
+Total Storage Capacity
+256 gigabytes
+Solid State Drive CapacityInfo
+256 gigabytes
+System Memory (RAM)Info
+8 gigabytes
+GraphicsInfo
+Intel UHD Graphics
+Processor Speed (Base)Info
+1.2 gigahertz
+Processor ModelInfo
+Intel 10th Generation Core i3
+Processor Model Number
+1005G1
+Operating SystemInfo
+Windows 10 Home in S mode
+Battery LifeInfo
+7.5 hours
+Battery Type
+Lithium-ion
+General
+Product Name
+IdeaPad 3 15" Laptop - Intel Core i3-1005G1 - 8GB Memory - 256GB SSD
+Brand
+Lenovo
+Casing Material
+Plastic
+Model Number
+81WE011UUS
+Year Introduced
+2020
+Color
+Platinum Grey
+Color Category
+Gray
+Feature
+2-in-1 DesignInfo
+No
+Customizable Keyboard Lighting
+No
+Customizable Case Lighting
+No
+Keyboard Touch ScreenInfo
+No
+Backlit KeyboardInfo
+No
+Cooling SystemInfo
+Air
+Cable Lock Slot
+None
+Ports
+Headphone Jack
+Yes
+Number of USB Ports (Total)
+3
+Number of USB 2.0 Type A Ports
+1
+Number of USB 3.0 Type A Ports
+2
+Number of USB Type A Charging Ports
+0
+Number of USB 3.0 Type C Ports
+0
+Number of USB 3.1 Type C Ports
+0
+Number of USB Type C Charging Ports
+0
+Number of HDMI Outputs (Total)
+1
+Number of HDMI HDCP 2.2 OutputsInfo
+0
+Number of VGA PortsInfo
+0
+Number of DisplayPort Outputs (Total)
+0
+Number of DisplayPort Ver. 1.2 Outputs
+0
+Number of DisplayPort Ver. 1.3 Outputs
+0
+Number of DisplayPort Ver. 1.4 Outputs
+0
+Number of Thunderbolt Ports (Total)
+0
+Number of Thunderbolt 2 Ports
+0
+Number of Thunderbolt 3 Ports
+0
+Number of USB 2.0 Type C Ports
+0
+Number Of IEEE 1394 PortsInfo
+0
+Number of USB 3.1 Type A Ports
+0
+Number of USB 3.2 Type C Ports
+0
+Number of USB 3.2 Type A Ports
+0
+Display
+Screen SizeInfo
+15.6 inches
+Screen ResolutionInfo
+1920 x 1080 (Full HD)
+Touch ScreenInfo
+No
+Display Type
+LED
+Storage
+Storage Type
+SSD
+Total Storage Capacity
+256 gigabytes
+Solid State Drive CapacityInfo
+256 gigabytes
+Solid State Drive InterfaceInfo
+NVMe
+Memory
+System Memory (RAM)Info
+8 gigabytes
+Type of Memory (RAM)Info
+DDR4
+System Memory RAM SpeedInfo
+2666 megahertz
+Cache MemoryInfo
+4 megabytes
+Number Of Memory Slots
+1
+Number of Memory Sticks Included
+1
+Graphics
+GraphicsInfo
+Intel UHD Graphics
+Graphics TypeInfo
+Integrated
+GPU Brand
+Intel
+Video Memory TypeInfo
+Shared
+Processor
+Processor Brand
+Intel
+Processor Speed (Base)Info
+1.2 gigahertz
+Processor ModelInfo
+Intel 10th Generation Core i3
+Processor Model Number
+1005G1
+Processor Cores
+2-core (dual-core)
+Expansion
+Number of M.2 SlotsInfo
+1
+Number Of eSATA Ports
+0
+Connectivity
+Internet Connectivity
+Wi-Fi
+Bluetooth EnabledInfo
+Yes
+NFC EnabledInfo
+No
+Camera
+Front-Facing Camera
+Yes
+Front Facing Camera Video ResolutionInfo
+720p
+Built-In Microphone
+Yes
+Network
+Wireless NetworkingInfo
+Wireless-AC
+Number Of Ethernet Ports
+0
+Compatibility
+Operating SystemInfo
+Windows 10 Home in S mode
+Included
+Blu-Ray Player
+No
+Numeric Keypad
+Yes
+Stylus Included
+No
+Included Software
+Microsoft Office 365 (30 Day Trial), McAfee LiveSafe (30 Day Trial)
+Power
+Battery LifeInfo
+7.5 hours
+Battery Cells
+2-cell
+Battery Type
+Lithium-ion
+Power Supply Maximum Wattage
+65 watts
+Dimension
+Product HeightInfo
+14.26 inches
+Product WidthInfo
+9.98 inches
+Product DepthInfo
+0.78 inches
+Product WeightInfo
+4.07 pounds
+Audio
+Audio Technology
+Dolby Audio
+Speaker Type
+2 x 1.5W with Dolby Audio
+Certifications & Listings
+ENERGY STAR CertifiedInfo
+No
+EPEAT QualifiedInfo
+No
+Warranty
+Manufacturer's Warranty - Parts
+1 year
+Manufacturer's Warranty - Labor
+1 year
+Other
+Internal Carrier
+Not Applicable
+UPC
+195348092494
