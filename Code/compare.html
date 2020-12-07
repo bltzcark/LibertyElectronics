@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    <!-- Latest compiled and minified CSS & JS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+
+    <link rel="stylesheet" href="css.css">
+    <script src="prod.js"></script>
+<style>
+    .leftComp {
+        display: block;
+        float: left;
+        width: 30%;
+        height: 500px;
+        background: black;
+        margin-left: 200px;
+        position: relative;
+    }
+
+    .rightComp {
+        display: block;
+        float: right;
+        width: 30%;
+        height: 500px;
+        background: black;
+        margin-right: 200px;
+        position: relative;
+    }
+
+    .leftComp, .rightComp {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+</style>
+<body>
+    <header>
+        <nav>
+          <ul>
+            <li class="lgHolder"><img src="logoo_cropped.png" height="50px"><strong>Liberty Electronics</strong></li>
+            <li><a class="nav" href="home.htm">Home</a></li>
+            <li><a class="nav" href="products.htm">Products</a></li>
+            <li><a class="nav" href="news.html">News</a></li>
+            <li><a class="nav" href="aboutus.html">About Us</a></li>
+            <li><a class="nav" href="ContactUs.html">Contact Us</a></li>
+            <li class="right"><a class="nav" href="Login.html">Member</a></li>
+            <li class="right"><a class="nav"><span class="glyphicon glyphicon-shopping-cart"></span><span class="badge badge-secondary cartNum"></span></a></li>
+          </ul>
+        </nav>
+    </header>
+    <div style="display: block; margin-left: auto; margin-right: auto;">
+        <div class="leftComp">
+            <div class="card">
+                <img id="pdImg" src="#" style="width:100%">
+                <h1 id="pdName"></h1>
+                <p class="price" id="pdPrice"></p>
+                <p id="pdDesc"></p>
+              </div>
+        </div>
+
+        <div class="rightComp">
+            
+        </div>
+    </div>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+    <script>
+        //Get the button
+        var mybutton = document.getElementById("myBtn");
+
+        // When the user scrolls down 20px from the top of the document, show the button
+        window.onscroll = function() {scrollFunction()};
+
+        function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            mybutton.style.display = "block";
+        } else {
+            mybutton.style.display = "none";
+        }
+        }
+
+        // When the user clicks on the button, scroll to the top of the document
+        function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+        }
+    </script>
+
+<footer style="display: block; margin-top: 15px;">
+    <div style="display: block; float: left; margin-top: 20px; margin-bottom: 20px; margin-left: 110px; margin-right: 60px;"><img src="logo.png" width="300px"></div>
+    <div style="display: block; float: left">
+        <table style="height: 210px; width: 950px">
+            <tr>
+                <td valign="middle" style="padding-left: 30px">
+                    <h4><strong>Contact Us</strong></h4>
+                    Email: <a href="mailto:LibertyElectronics@gmail.com">LibertyElectronics@gmail.com</a><br>
+                    Address : 590 CMT8 Street, District 3<br>
+                    Number: 0000 - 0000<br>
+                </td>
+                <td valign="middle">
+                    <h4><strong>Payment method</strong></h4>
+                    Visa  <img src="images/visa.png" height="25px"><br>
+                    Mastercard  <img src="images/mastercard.png" height="25px"><br>
+                    Internet Banking  <img src="images/internet-banking.png" height="25px">
+
+                </td>
+                <td valign="middle" style="padding-bottom: 50px">
+                    <h4><strong>Follow us on</strong></h4>
+                    <img src="images/facebook.png" height="25px">
+                    <img src="images/twitter.png" height="25px" style="border-radius: 10%;">
+                    <img src="images/instagram.png" height="25px">
+                </td>
+            </tr>
+        </table>
+    </div>  
+</footer>
+</body>
+</html>
